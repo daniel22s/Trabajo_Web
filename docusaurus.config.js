@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Senati_Per%C3%BA_logo.svg',
+      image: 'https://image.tmdb.org/t/p/original/jHTfBfSJXxcCrCFowfLhPhHv4DV.png',
       navbar: {
         title: 'MI SITIO',
         logo: {
