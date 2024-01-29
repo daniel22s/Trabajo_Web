@@ -1,5 +1,4 @@
 
-import {themes as prismThemes} from 'prism-react-renderer';
 import { prismThemes } from '@docusaurus/theme-code';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -10,14 +9,12 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://daniel22s.github.io/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
 
+  baseUrl: '/Trabajo_Web',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'daniel22s',
-  projectName: 'Logo_Buho',
+  projectName: 'Trabajo_Web',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
