@@ -1,5 +1,5 @@
 
-import { prismThemes } from '@docusaurus/theme-code';
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -121,7 +121,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.twilight,
+        theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
