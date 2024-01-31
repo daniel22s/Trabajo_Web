@@ -10,7 +10,7 @@ const config = {
   // Set the production url of your site here
   url: 'https://daniel22s.github.io/',
 
-  baseUrl: '/Trabajo_Web',
+  baseUrl: '/caso4',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'daniel22s',
